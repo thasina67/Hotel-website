@@ -1,0 +1,55 @@
+.silder .each-slide-effect {
+  position: relative;
+}
+
+.silder .each-slide-effect > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  height: 450px;
+  min-width: 1180px;
+  position: relative;
+}
+
+.silder .each-slide-effect span {
+  padding: 10px;
+  font-size: 24px;
+  text-align: center;
+  color: #fff;
+}
+
+.slider-dots {
+  position: absolute;
+  top: 200px;
+  right: 20px;
+  z-index: 100; /* Ensure the dots are above the images */
+}
+
+.dot {
+  display: inline-block;
+  height: 8px;
+  width: 8px;
+  border-radius: 50%;
+  background-color:lightgrey;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.dot.active {
+  background-color:white;
+}
+
+/* Styles for the navigation arrows */
+.silder .each-slide > button {
+  background-color: black; /* Change arrow background color */
+  color: white; /* Change arrow color */
+}
+.silder{
+  position: relative;
+}
+.box{
+  position: absolute;
+  bottom: 50px;
+  
+}

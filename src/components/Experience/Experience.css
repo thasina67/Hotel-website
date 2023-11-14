@@ -1,0 +1,27 @@
+h2{
+    color: rgb(55, 55, 193);
+    font-weight: 900;
+    font-size: 40px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+h4{
+    color: #312f2f;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.container14{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 6fr 1fr ;
+
+    row-gap:400px;
+    column-gap: 10px;
+    align-items: center;
+    margin: 36px;
+}
+

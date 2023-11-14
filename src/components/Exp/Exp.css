@@ -1,0 +1,24 @@
+.conatinerin12 {
+    margin: 0;
+    align-items: center;
+  }
+  
+  .image12 {
+    width: 60vh;
+    height: 60vh;
+    position: absolute;
+    border-radius: 5px;
+  }
+  
+  
+  .text12{
+    font-weight: 800;
+    color:white;
+    position: relative;
+    top: 400px;
+    left: 10%;
+    font-size: 24px;
+  }
+  
+  
+  

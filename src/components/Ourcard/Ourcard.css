@@ -1,0 +1,29 @@
+.container6{
+padding: 30px;
+background-color: white;
+width: 400px;
+height:300px;
+-webkit-box-shadow: 2px 2px 34px -2px #494949; 
+box-shadow: 2px 2px 34px -2px #494949;
+}
+.container6 .top6{
+    font-size: 30px;
+    font-weight: 500;
+    color: rgb(119, 50, 139);
+    font-family: BodoniStd-BookItalic, serif;
+    margin-bottom: 30px;
+}
+.container6 .middle6{
+font-size: 20px;
+font-weight: 300;
+margin-bottom: 15px;
+}
+.container6 .bootom6 button{
+   background-color:  rgb(37, 39, 118);
+   color: white;
+   font-family:  BodoniStd-BookItalic, serif;
+   padding: 10px 30px;
+   border: none;
+   cursor: pointer;
+   outline: none;
+}

@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+ 
+}
+
+.containernew {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  overflow: hidden;
+}
+
+.containernew .optionsnew {
+  position: relative;
+  padding: 15px 120px;
+  color: #252776;
+  font-weight: 600;
+  margin: 20px 0px;
+  left: 25vw;
+  font-size: 30px;
+}
+
+.containernew .titlenew{
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 50px;
+  font-weight: 500;
+  color: rgb(119, 50, 139);
+  font-family: 'BodoniStd-BookItalic', serif;
+}
+
+.containernew .bootomnew {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.containernew .bootomnew .imagenew {
+  background-image: url('https://cinnamonweb.blob.core.windows.net/cinnamonweb-prd/media/Dhonveli-main-brand-site-DJI-0179-715x550px-301023.jpg');
+  width: 715px;
+  height: 550px;
+  position: relative;
+  left: 200px;
+
+
+}
+
+.containernew .bootomnew .contentnew{
+  margin: 0;
+  position: relative;
+
+}

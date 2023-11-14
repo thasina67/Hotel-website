@@ -1,0 +1,42 @@
+*{
+  margin: 0px;
+   font-weight:600;
+}
+.container{
+    /* background-color: bisque; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 60px;
+    font-size: 14px;
+}
+.container .left .logo{
+    width: 380px;
+    height: 90px;
+    background-image: url(//s.shangri-la.com/sl-fe-hotel-prod/img/shangrila_en2021.a24c901.png);
+    transform: scale(0.5);
+}
+.container .right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 40px;
+}
+.container .right .item{
+    font-family: Montserrat,Verdana,Helvetica,Arial,sans-serif;
+    margin-right: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container .right .item .world {
+    margin-right: 8px;
+}
+.container .right .divder{
+    background-color:black;
+
+    width: 1px;
+    height: 15px;
+    margin-right: 8px;
+}

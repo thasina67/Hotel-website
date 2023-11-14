@@ -1,0 +1,55 @@
+.image13{
+    width: 50vh;
+    height: 30vh;
+    border-radius: 5px;
+    /* margin-left: 50px; */
+}
+
+
+.container13{
+    width: 50vh;
+    margin: 30px;
+    box-shadow: 2px 6px 16px -4px rgba(69,68,68,0.75);
+-webkit-box-shadow: 2px 6px 16px -4px rgba(69,68,68,0.75);
+-moz-box-shadow: 2px 6px 16px -4px rgba(69,68,68,0.75);
+    
+}
+.container13:hover{
+box-shadow: 2px 8px 25px 0px rgba(69,68,68,0.75);
+-webkit-box-shadow: 2px 8px 25px 0px rgba(69,68,68,0.75);
+-moz-box-shadow: 2px 8px 25px 0px rgba(69,68,68,0.75);
+}
+
+.container13 div{
+    text-align: center;
+    /* margin-top: 10px; */
+}
+.container13 button{
+    margin-left: 160px;
+    margin-top: 10px;
+}
+
+.button13{
+    position:relative;
+    top: 0px;
+    color: rgb(187, 139, 9);
+    font-size: 20px;
+    border: 2px solid rgb(187, 139, 9);
+    background-color: white;
+    padding: 8px 15px;
+    cursor: pointer;
+    margin: 20px 0px;
+}
+
+.heading13{
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    
+}
+.price13{
+    margin-top: 85px;
+}
+.container13 div:nth-child(2){
+    margin: 30px 0px;
+}
